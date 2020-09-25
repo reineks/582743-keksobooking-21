@@ -1,7 +1,7 @@
 # Личный проект «Кексобукинг» [![Build status][travis-image]][travis-url]
 
 * Студент: [Max Bubnov](https://up.htmlacademy.ru/javascript/21/user/582743).
-* Наставник: `Неизвестно`.
+* Наставник: [Александр Белокур](https://up.htmlacademy.ru/javascript/21/user/256757).
 
 ---
 
